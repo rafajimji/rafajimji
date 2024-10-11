@@ -13,6 +13,12 @@
 </div>
 
 
+### Workspace Specs
+- ![Placa de Video](https://img.shields.io/badge/AMD-Radeon_RX_6650xt-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+- ![Processador](https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+- ![Windows](https://img.shields.io/badge/Windows11-16gb_ram-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
 
 
 ### Ultimos projetos: 
