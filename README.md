@@ -24,3 +24,5 @@
 ### Ultimos projetos: 
 
 - [Site Builds de Elden Ring](https://rafajimji.github.io/elden-ring-teste/)<br/>
+
+- [Site com a Pokédex](https://rafajimji.github.io/Pokedex/)<br/>
